@@ -1,1 +1,3 @@
 # pulse
+
+chatgpt in terminal
